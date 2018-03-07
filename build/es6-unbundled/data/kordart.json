@@ -1,0 +1,56 @@
+[
+  {
+    "name":"birthday-card",
+    "title":"Quilling card 'Birthday card'",
+    "category":"kordart",
+    "price":12.30,
+    "description":"Materials: scissors, quilling, paper, printed paper, glue, paper flowers, paper letters, wedding card, quilled flowers.",
+    "image":"data/images/birthday-card.jpg",
+    "largeImage":"data/images/birthday-card.jpg"
+  },
+  {
+    "name":"cookies-broidery",
+    "title":"Cookies broidery",
+    "category":"kordart",
+    "price":13.50,
+    "description":"Materials: Fabrics, Wooden hoop, Anchor thread, Canvas, Threads, Aida, Cotton, Cookies, DMC, Lamp, Stitch work.",
+    "image":"data/images/cookies-broidery.jpg",
+    "largeImage":"data/images/cookies-broidery.jpg"
+  },
+  {
+    "name":"flowers-bouquet-broidery",
+    "title":"Flowers Bouquet Broidery",
+    "category":"kordart",
+    "price":14.10,
+    "description":"Materials: canvas, needle, dimensions, dimension, scissors, embroidery, stitch work, hand made embroidery, wooden hoop, 14 count cream Aida, cotton thread, Anchor thread.",
+    "image":"data/images/flowers-bouquet-broidery.jpg",
+    "largeImage":"data/images/flowers-bouquet-broidery.jpg"
+  },
+  {
+    "name":"make-dreams-card",
+    "title":"Make dreams card",
+    "category":"kordart",
+    "price":10.70,
+    "description":"Materials: paper, quilling, quilled, glue, printed paper, scrap paper, scissors, quilled sky, quilled elements, hand made cards.",
+    "image":"data/images/make-dreams-card.jpg",
+    "largeImage":"data/images/make-dreams-card.jpg"
+  },
+  {
+    "name":"quilling-bouquet-card",
+    "title":"Quilling bouquet card",
+    "category":"kordart",
+    "price":24.90,
+    "description":"Materials: glue, scissors, paper, printed paper, scrap paper, quilling, quilled, paper craft, decoration paper, hand made.",
+    "image":"data/images/quilling-bouquet-card.jpg",
+    "largeImage":"data/images/quilling-bouquet-card.jpg"
+  },
+  {
+    "name":"sweet-21-card",
+    "title":"Sweet 21 card",
+    "category":"kordart",
+    "price":18.80,
+    "description":"Materials: scrap paper, quilling, quilling stripes, glue, paper, decor paper, colored paper, printed paper, scissors, hand made, handmade.",
+    "image":"data/images/sweet-21-card.jpg",
+    "largeImage":"data/images/sweet-21-card.jpg"
+  }
+]
