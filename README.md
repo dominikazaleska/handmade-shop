@@ -8,6 +8,36 @@ Install [polymer-cli](https://github.com/Polymer/polymer-cli):
 
     npm install -g polymer-cli
 
+"If you don’t have Node.js and/or npm installed on your machine, do the following for your respective OS.
+
+###### Mac
+
+Go to nodejs.org, click ‘install’, and run through the install process.
+
+###### Ubuntu
+
+Run the following on your command line to install the source for nodejs
+
+    curl -sL https://deb.nodesource.com/setup | sudo -E bash -
+
+Then, run this to get the latest nodejs package
+
+    sudo apt-get install -y nodejs
+
+###### Windows
+
+Go ahead the download the Windows binary and make sure to restart your computer.
+
+###### Test It!
+
+    node -v
+
+To see if Node is installed, type the above on your command line.
+
+    npm -v
+
+To see if npm is installed, type the above on your command line."
+Source: https://www.npmjs.com/package/polymer-cli/tutorial
 
 ##### Setup
     # Using CLI
