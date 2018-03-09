@@ -37,6 +37,7 @@ To see if Node is installed, type the above on your command line.
     npm -v
 
 To see if npm is installed, type the above on your command line."
+
 Source: https://www.npmjs.com/package/polymer-cli/tutorial
 
 ##### Setup
